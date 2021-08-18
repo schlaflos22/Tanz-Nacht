@@ -48,10 +48,10 @@ body {
     margin: 75px 50px 50px 200px;
 }
 .background {
-     width: 100%;
-     background:url("../img/background_image_1920.jpg") no-repeat;
-     height: 943px;
-     background-size:cover;
+    width: 100%;
+    background:url("../img/background_image_1920.jpg") no-repeat;
+    height: 943px;
+    background-size:cover;
 }
 .text {
     display:flex;
